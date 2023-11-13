@@ -6,6 +6,9 @@
 
 ## Como se resolvio
 
+En base a las consignas del proyecto primero se realiza la interfaz que le pide al usuario que vaya ingresando por consola cada fila.
+Esta se logra con un bucle for para cargar 6 filas. Se agrega tambien un bucle while que verifique que se ingresen letras validas y que la longitud sea de 6 letras.
+
 ## Casos de Prueba
 ```
 Caso 1: Mutante
