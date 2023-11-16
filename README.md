@@ -10,7 +10,7 @@ En este proyecto se pide que se realice una funcion que recibe un Array de strin
 * La longitud del String tiene que ser de 6 caracteres.
 * La funcion que hay que programar es:
 ```
-boolean isMutant(String[] dna);
+def isMutant(dna);
 ```
 * Esta funcion devuelve true  si encuentra MAS DE UNA SECUNCIA de cuatro letras iguales, de forma oblicua, horizontal o vertical
 
